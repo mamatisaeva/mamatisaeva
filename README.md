@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👩🏻‍💻 Обо мне:
 
 Я  начинающий тестировщик. 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@mamatisaeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gaukhar-mamatisaeva-2b3433317/?trk=public-profile-join-page) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mamatisaeva.g@gmail.com)
@@ -87,5 +87,12 @@
 --- 
 
 ### Testing Artefacts
-
+[Теория тестирования](https://github.com/mamatisaeva/the-ory)  
+[Тестирование веб-приложений](https://github.com/mamatisaeva/web)   
+[Тестовая документация](https://github.com/mamatisaeva/Docs)  
+[Техники тест-дизайна](https://github.com/mamatisaeva/Design?tab=readme-ov-file)   
+[Тестирование API](https://github.com/mamatisaeva/api)   
+[Работа с базами данных](https://github.com/mamatisaeva/database)   
+[Тестирование мобильных приложений](https://github.com/mamatisaeva/mobile)   
+[Работа с git и bash](https://github.com/mamatisaeva/git_bash) 
 
