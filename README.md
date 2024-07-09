@@ -4,7 +4,8 @@
 
 ### 👩🏻‍💻 Обо мне:
 
-Я  начинающий тестировщик. 
+Я  начинающий тестировщик.   
+### 📄 [Мое резюме](https://drive.google.com/file/d/1w-9Wdpkb3RjWySdwFYzfr0QuDIupfr-2/view?usp=drive_link)
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@mamatisaeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gaukhar-mamatisaeva-2b3433317/?trk=public-profile-join-page) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mamatisaeva.g@gmail.com)
 
 ---
